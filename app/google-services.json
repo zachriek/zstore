@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61103494316",
+    "project_id": "zstore-24744",
+    "storage_bucket": "zstore-24744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61103494316:android:ae4eae9c6e95b6b7177b09",
+        "android_client_info": {
+          "package_name": "com.example.zstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACRlgMj23cwcta8GshxkfvwwNCkP_Afo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
